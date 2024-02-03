@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-docs-1"
+  description: "Sample tech doc cmponent created using the docs template"
+  annotations:
+    github.com/project-slug: codequester/test-docs-1
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "codequester"
