@@ -2,4 +2,4 @@
 
 Sample tech doc cmponent created using the docs template
 
-Owned by codequester
+Owned by codequester - min-ver1
